@@ -2,7 +2,6 @@
 
 Welcome to the **Snake Game GUI** project! This repository features a classic Snake game implemented in MATLAB, complete with an engaging graphical user interface (GUI). Control the snake, eat food, grow longer, and avoid collisions!
 
-![Snake Game](https://example.com/snake-game-banner.jpg)  <!-- Replace with your own image URL -->
 
 ## 🛠 Features
 
@@ -17,7 +16,7 @@ To get started with the Snake Game GUI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/snake-game-gui-matlab.git
+   git clone https://github.com/yeahyeahassan/classic-snake-game-gui-matlab.git
    
 2. **Navigate to the Project Directory**:
    ```bash
@@ -26,7 +25,7 @@ To get started with the Snake Game GUI, follow these steps:
 3. **Open the Project in MATLAB**:
 - Launch MATLAB.
 - Go to File -> Open and select snake_g.fig or snake_g.m.
- <!-- Replace with your own image URL -->
+
 
 ## 🎮 Usage
 1. **Run the Game**:
@@ -43,7 +42,7 @@ To get started with the Snake Game GUI, follow these steps:
 
 - Click the Pause button to stop the snake's movement.
 - Click the End Game button to exit.
- <!-- Replace with your own image URL -->
+
 
 ## 🎛 Controls
 - ⬆️ Up Arrow: Move the snake up.
@@ -57,7 +56,7 @@ To get started with the Snake Game GUI, follow these steps:
 - Growth: Eating food increases the snake's length and score.
 - Collision Detection: Game ends if the snake collides with itself.
 - Speed: Increases as the score hits milestones.
- <!-- Replace with your own image URL -->
+
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -65,5 +64,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit issues, pull requests, or suggestions. Your feedback helps us improve!
 
- <!-- Replace with your own image URL -->
 
