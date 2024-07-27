@@ -60,4 +60,4 @@ To get started with the Snake Game GUI, follow these steps:
 ## 🤝 Contributing
 I welcome contributions! Feel free to submit issues, pull requests, or suggestions. Your feedback helps me to improve!
 
-
+![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
