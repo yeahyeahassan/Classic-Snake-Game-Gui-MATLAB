@@ -1,4 +1,5 @@
 # 🐍 Snake Game GUI in MATLAB
+![Project Sticker](https://img.shields.io/badge/Matlab-Project-blue?style=flat-square&logo=matlab)  ![GitHub Stars](https://img.shields.io/github/stars/yourusername/Matlab-CGPA-Calculator?style=social)
 
 Welcome to the **Snake Game GUI** project! This repository features a classic Snake game implemented in MATLAB, complete with an engaging graphical user interface (GUI). Control the snake, eat food, grow longer, and avoid collisions!
 
