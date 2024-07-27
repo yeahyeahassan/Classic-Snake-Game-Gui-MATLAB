@@ -16,7 +16,7 @@ To get started with the Snake Game GUI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yeahyeahassan/classic-snake-game-gui-matlab.git
+   git clone https://github.com/yeahyeahassan/Classic-Snake-Game-Gui-MATLAB.git
    
 2. **Navigate to the Project Directory**:
    ```bash
