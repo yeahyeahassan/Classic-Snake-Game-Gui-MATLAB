@@ -57,11 +57,7 @@ To get started with the Snake Game GUI, follow these steps:
 - Collision Detection: Game ends if the snake collides with itself.
 - Speed: Increases as the score hits milestones.
 
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contributing
-We welcome contributions! Feel free to submit issues, pull requests, or suggestions. Your feedback helps us improve!
+I welcome contributions! Feel free to submit issues, pull requests, or suggestions. Your feedback helps me to improve!
 
 
