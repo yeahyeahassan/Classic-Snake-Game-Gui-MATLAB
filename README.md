@@ -10,6 +10,9 @@ Welcome to the **Snake Game GUI** project! This repository features a classic Sn
 - **⚡ Dynamic Gameplay**: Snake grows and game speed increases with higher scores.
 - **⌨️ Keyboard Controls**: Use arrow keys for precise movement.
 - **⏱️ Real-time Updates**: Watch the snake's progress and growth live.
+---
+
+![fdf](https://github.com/user-attachments/assets/8f3044da-e959-434b-937f-a1921807cfed)
 
 ## 🚀 Installation
 
